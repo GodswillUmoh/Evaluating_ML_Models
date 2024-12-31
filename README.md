@@ -59,9 +59,10 @@ _Both RSS and TSS are key concepts in regression analysis. They measure differen
 
 ## Adjusted R-Squared
 > Adjusted R-Squared is a modified version of 𝑅2 that adjusts for the number of predictors (independent variables) in the model. It accounts for the fact that adding more predictors can artificially inflate 𝑅2.
+> The limitation of R-square was that when more predictors are added, it does not perform well, hence the adjusted R-square to accommodate addition of more predictors
 > + [See Formula for Adjusted Squared, Click to View](https://ibb.co/M54WcqD)
 >   
 >   Where:
 > + 𝑅2 : Coefficient of determination.
 > + 𝑛: Number of data points (observations).
-> + 𝑘: Number of predictors (independent variables).
+> + p: Number of predictors (independent variables).

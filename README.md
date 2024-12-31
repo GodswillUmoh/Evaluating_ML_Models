@@ -26,6 +26,7 @@ _Both RSS and TSS are key concepts in regression analysis. They measure differen
 ### 1. Total Sum of Squares (TSS)
 > TSS represents the total variance in the dependent variable (y) and measures how far the actual values (𝑦𝑖) are from the mean of the dependent variable (𝑦ˉ).
 + [See formula for TSS, Click to View](https://ibb.co/pbZ4vVV)
++ [See graphical Representation, Click to View](https://ibb.co/5KJJ7Vm)
   
 #### Explanation:
 > + It captures the overall variability in the dataset.
@@ -38,6 +39,7 @@ _Both RSS and TSS are key concepts in regression analysis. They measure differen
 ### 2. Residual Sum of Squares (RSS)
 > RSS measures the error in the regression model. It is the sum of the squared differences between the actual values (𝑦i) and the predicted values ($𝑦^𝑖$) from the regression model.
 > + [See formula for RSS, click to view](https://ibb.co/mNhzP5f)
+> + [See graphical Representation, Click to View](https://ibb.co/5KJJ7Vm)
 
 #### Explanation:
 > + Smaller RSS indicates a better fit because the predicted values are closer to the actual values.

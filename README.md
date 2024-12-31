@@ -32,8 +32,8 @@ _Both RSS and TSS are key concepts in regression analysis. They measure differen
 > + Larger TSS means more variability in the dependent variable.
 
 #### Key Notes:
-It doesn't consider the regression model, just the data.
-It serves as the baseline for comparison.
+> + It doesn't consider the regression model, just the data.
+> + It serves as the baseline for comparison.
 
 ### 2. Residual Sum of Squares (RSS)
 > RSS measures the error in the regression model. It is the sum of the squared differences between the actual values (𝑦i) and the predicted values ($𝑦^𝑖$) from the regression model.

@@ -49,3 +49,11 @@ _Both RSS and TSS are key concepts in regression analysis. They measure differen
 > + RSS will be zero for a perfect fit (rare in real-world scenarios).
 > + Overfitting may lead to a very low RSS but poor generalization.
 
+## Basic Rule to Note:
+### If Your R-Square is: 
++ 1.0 = Perfect fit (Suspicious)
++ 0.9 is Very Good
++ less than 0.7 Not Great
++ Less than 0.4 is terrible model
++ less than 0 maans model makes no sense for the data
+
